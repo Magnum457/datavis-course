@@ -1,3 +1,9 @@
+## Botando as tarefas em dia
+[d3_crossfilter_1](d3_crossfilter_1/index.html)
+[d3_crossfilter_2](d3_crossfilter_2/index.html)
+[d3_leafet](d3_leafet/index.html)
+[d3_leafet2](d3_leafet/index.html)
+
 ## Aula do dia 16/09/2019
 [scatterplott.html](d3_update/scatterplot.html)<br>
 
