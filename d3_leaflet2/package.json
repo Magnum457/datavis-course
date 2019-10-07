@@ -1,0 +1,14 @@
+{
+  "name": "@magnum457/crimes-em-chicago",
+  "main": "d/d2e1b507d6fa846c.js",
+  "version": "87.0.0",
+  "homepage": "https://observablehq.com/@magnum457/crimes-em-chicago",
+  "author": {
+    "name": "Magno Felipe",
+    "url": "https://observablehq.com/@magnum457"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
