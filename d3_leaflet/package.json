@@ -1,0 +1,14 @@
+{
+  "name": "@magnum457/d3-com-crossfilter-e-dc-js-e-leaflet",
+  "main": "d/e1ff089a8f4f1c27.js",
+  "version": "221.0.0",
+  "homepage": "https://observablehq.com/@magnum457/d3-com-crossfilter-e-dc-js-e-leaflet",
+  "author": {
+    "name": "Magno Felipe",
+    "url": "https://observablehq.com/@magnum457"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
