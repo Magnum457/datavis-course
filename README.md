@@ -1,3 +1,6 @@
+## Aula do dia 09/10/2019
+[d3_network](d3_network/index.html)<br>
+
 ## Botando as tarefas em dia
 [d3_crossfilter_1](d3_crossfilter_1/index.html)<br>
 [d3_crossfilter_2](d3_crossfilter_2/index.html)<br>
