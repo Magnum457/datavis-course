@@ -1,0 +1,14 @@
+{
+  "name": "@magnum457/les-miserables/2",
+  "main": "d/2c656b1d8af3c0cc.js",
+  "version": "135.0.0",
+  "homepage": "https://observablehq.com/@magnum457/les-miserables/2",
+  "author": {
+    "name": "Magno Felipe",
+    "url": "https://observablehq.com/@magnum457"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
