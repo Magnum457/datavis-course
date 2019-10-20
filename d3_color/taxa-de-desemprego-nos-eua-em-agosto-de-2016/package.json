@@ -1,0 +1,14 @@
+{
+  "name": "@magnum457/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "main": "d/e9c26d22f617d0b6.js",
+  "version": "71.0.0",
+  "homepage": "https://observablehq.com/@magnum457/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "author": {
+    "name": "Magno Felipe",
+    "url": "https://observablehq.com/@magnum457"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@magnum457/homicidios-em-fortaleza-em-2012",
+  "main": "d/7be68e1bfe7eb0fc.js",
+  "version": "134.0.0",
+  "homepage": "https://observablehq.com/@magnum457/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Magno Felipe",
+    "url": "https://observablehq.com/@magnum457"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
