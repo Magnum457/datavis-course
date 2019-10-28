@@ -1,3 +1,7 @@
+## Aula do dia 23/10/2019
+[Desemprego_EUA](d3_interactive/taxa-de-desemprego-nos-eua-em-agosto-de-2016/index.html)<br>
+[Terremotos](d3_interactive/d3-com-crossfilter-dc-js-e-leaflet-parte-2/index.html)<br>
+
 ## Aula do dia 16/10/2019
 [Homicidios_Fortaleza](d3_color/homicidios-em-fortaleza-em-2012/index.html)<br>
 [Desemprego_EUA](d3_color/taxa-de-desemprego-nos-eua-em-agosto-de-2016/index.html)<br>
